@@ -1,2 +1,7 @@
 # F2-Contest1
-May Contest-1
+Done Simple operations on Array by using Array-Methods such as :
+- Array.map()
+- Array.forEach()
+- Array.concat()  etc.
+##
+<a href = "https://shubham2511github.github.io/F2-Contest1/">**Visit Now** 🚀</a>
